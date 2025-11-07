@@ -1,10 +1,10 @@
 # DAY_5_Aggregate_Functions
 Aggregate functions performs calculation on multiple rows and returns a single value. Important Aggregate functions are Count, Sum, Avg, Min, Max
 ## 📚 Concepts Covered
-* Five core aggregates: COUNT, SUM, MIN, MAX, AVG
-* ROUND() function helps present cleaner AVG
-* Aggregates ignore NULL (except COUNT(*)). 
-* Use AS to Alias aggregates for readable column names.
+* Five core aggregates: **COUNT, SUM, MIN, MAX, AVG**
+* **ROUND()** function helps present cleaner AVG
+* Aggregates ignore **NULL** (except **COUNT(*)**). 
+* Use **AS** to Alias aggregates for readable column names.
 
 
 ## 🏥 Dataset: 
